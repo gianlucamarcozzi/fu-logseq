@@ -1,0 +1,4 @@
+- Checklist:
+	- Trigger level: ((660ecd66-b56e-4e34-9979-7d384ecb3e30))
+	- Disconnect modulation
+	- Low AFC gain

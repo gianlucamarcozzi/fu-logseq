@@ -1,0 +1,6 @@
+- There is a certain radius (around 4 to 8 angstrom) inside which the interaction between electron and nuclear spins is strong and there are no flip-flops therefore the nuclear spins do not influence the Tm
+	- I think that the flip-flops do not occur because the vicinity of the electron spin shifts the resonance frequency of the nuclear spin, therefore a flip-flop between the very neighboring nucleus and another one slightly more distant cannot happen
+		- See [[@Dephasing of electron spin echoes for nitroxyl radicals in glassy solvents by non-methyl and methyl protons]], section 3.2
+	- [[@Quantitative Structure-Based Prediction of Electron Spin Decoherence in Organic Radicals]]
+		- Attention because the phenomena of spin diffusion (spatial) and decoherence are not exactly the same
+	- [[@Synthetic Approach To Determine the Effect of Nuclear Spin Distance on Electronic Spin Decoherence]]

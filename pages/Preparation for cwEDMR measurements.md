@@ -1,0 +1,3 @@
+- Preparation for cwEDMR measurements on VOTPP, planned for the week 2024-07-23 to 26
+	- IV of a 5um substrate
+	-

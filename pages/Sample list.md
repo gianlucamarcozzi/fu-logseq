@@ -1,0 +1,2 @@
+- [[CasCu-S-001]]
+- {{query (property type sample)}}
