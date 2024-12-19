@@ -1,6 +1,6 @@
 type:: internal-discussion
 attendee:: [[R. Bittl]], [[N. Panjwani]], [[G. Crapulli]], [[J. Behrends]]
-project:: [[projects/CasVOTPP]], [[projects/CasZnO]]
+project:: [[project/CasVOTPP]], [[project/CasZnO]]
 date:: [[2024-07-16]]
 
 - VOTPP

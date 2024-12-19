@@ -1,5 +1,5 @@
 type:: experiment
-project:: [[projects/CasZnO]]
+project:: [[project/CasZnO]]
 technique:: [[cwEPR]]
 spectrometer:: [[Lyra]]
 sample:: [[CasZnO-S-001]], [[CasZnO-S-002]]

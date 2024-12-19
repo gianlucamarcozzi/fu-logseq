@@ -1,4 +1,4 @@
-tags:: [[projects/CasZnO]]
+tags:: [[project/CasZnO]]
 date:: 08/2014
 issn:: 09258388
 doi:: 10.1016/j.jallcom.2014.03.157

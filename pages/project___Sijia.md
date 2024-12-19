@@ -1,6 +1,6 @@
 - {{query (and (todo todo) (property project [[Sijia sulphurization]]))}}
   query-table:: true
-  title:: projects/Sijia
+  title:: project/Sijia
   collapsed:: true
 - DONE Write report
   id:: 65705543-448c-4e46-a4ee-b0751764b96e
@@ -19,4 +19,4 @@
 		- SCOF mixed: stability over time
 	- 2nd cycle discharge and recharge
 - DONE Receive Sijia's email
-  project:: [[projects/Sijia]]
+  project:: [[project/Sijia]]

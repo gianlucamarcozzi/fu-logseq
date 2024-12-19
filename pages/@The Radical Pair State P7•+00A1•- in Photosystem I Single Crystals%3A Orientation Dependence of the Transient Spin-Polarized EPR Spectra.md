@@ -1,4 +1,4 @@
-tags:: [[projects/ZePSI]]
+tags:: [[project/ZePSI]]
 title:: @The Radical Pair State P7•+00A1•- in Photosystem I Single Crystals: Orientation Dependence of the Transient Spin-Polarized EPR Spectra
 item-type:: [[journalArticle]]
 original-title:: The Radical Pair State P7•+00A1•- in Photosystem I Single Crystals: Orientation Dependence of the Transient Spin-Polarized EPR Spectra

@@ -1,5 +1,5 @@
 type:: experiment
-project:: [[projects/CasCu]]
+project:: [[project/CasCu]]
 technique:: [[cwEPR]]
 type-of-experiment:: [[Saturation curve]]
 spectrometer:: [[MS5000]]

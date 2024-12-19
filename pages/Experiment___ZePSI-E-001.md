@@ -1,5 +1,5 @@
 type:: experiment
-project:: [[projects/ZePSI]] 
+project:: [[project/ZePSI]] 
 technique:: [[trEPR]]
 spectrometer:: [[Isaak]]
 resonator:: [[MD5-W1]]

@@ -1,4 +1,4 @@
-tags:: [[projects/CasZnO]]
+tags:: [[project/CasZnO]]
 date:: 06/2020
 issn:: 10106030
 doi:: 10.1016/j.jphotochem.2020.112531

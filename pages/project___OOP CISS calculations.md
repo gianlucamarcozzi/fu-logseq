@@ -5,26 +5,26 @@ type:: project
 	- DONE Apply a general rotation to the initial state
 	  id:: 65ae899c-4d92-493a-b433-ba2bbc651370
 	  category:: [[Simulations]]
-	  project:: [[projects/OOP CISS calculations]]
+	  project:: [[project/OOP CISS calculations]]
 	- DONE Echo intensity for singlet and triplets, up down and down up
 	  id:: 65b0ee16-7572-4352-a549-c2de328f9c7f
 	  category:: [[Simulations]]
-	  project:: [[projects/OOP CISS calculations]]
+	  project:: [[project/OOP CISS calculations]]
 	- DONE Divide pre-beta-pulse and post-beta-pulse script
 	  category:: [[Simulations]]
-	  project:: [[projects/OOP CISS calculations]]
+	  project:: [[project/OOP CISS calculations]]
 	  id:: 65ae89d2-a4ff-4d06-a399-b8525ca1f30c
 	- DONE Calculate OOP for every basis operator couple
 	  id:: 65ba84c2-145e-4c40-bce6-c5cc0875d43f
 	  category:: [[Simulations]]
-	  project:: [[projects/OOP CISS calculations]]
+	  project:: [[project/OOP CISS calculations]]
 	- DONE Apply rotation to initial state and average
 	  id:: 65ae8a33-2658-4a6b-b312-8a305919ad99
 	  category:: [[Simulations]]
-	  project:: [[projects/OOP CISS calculations]]
+	  project:: [[project/OOP CISS calculations]]
 	- DONE Write notes on initial rotation and integral
 	  category:: [[Reflection]]
-	  project:: [[projects/OOP CISS calculations]]
+	  project:: [[project/OOP CISS calculations]]
 	  id:: 65bd2137-4cce-48d7-8aa4-a0b94bcc8dfe
 - ## OOP echo simulations for singlet and triplet states
   id:: 65b1041b-a3ea-48c9-957a-75a935e6bff7

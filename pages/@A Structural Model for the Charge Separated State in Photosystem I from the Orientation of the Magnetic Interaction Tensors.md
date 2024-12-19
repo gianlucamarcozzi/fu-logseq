@@ -1,4 +1,4 @@
-tags:: [[projects/ZePSI]]
+tags:: [[project/ZePSI]]
  date:: [[Sun, 01-10-2000]]
 issn:: "1520-6106, 1520-5207"
 issue:: 41

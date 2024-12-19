@@ -1,5 +1,5 @@
 type:: experiment
-project:: [[projects/CasCu]]
+project:: [[project/CasCu]]
 technique:: [[IV]], [[cwEPR]]
 spectrometer:: [[Lyra]]
 sample:: [[CasCu-S-001]], [[CasCu-S-002]]

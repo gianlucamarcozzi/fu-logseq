@@ -1,4 +1,4 @@
-tags:: [[projects/EPR knowledge/cwEPR saturation]]
+tags:: [[project/EPR knowledge/cwEPR saturation]]
 date:: 1996
 publisher:: Dover Publications
 place:: "Mineola, N.Y"

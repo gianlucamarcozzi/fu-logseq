@@ -1,4 +1,4 @@
-project:: [[projects/EPR knowledge]]
+project:: [[project/EPR knowledge]]
 
 - To bring xyz to ABC you need three angles (zyz convention):
 	- Rotation of \alpha around the z-axis (z = z') to bring y -> y' in the AB plane
