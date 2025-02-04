@@ -414,4 +414,5 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "EEE, dd-MM-yyyy"
  :zotero/settings-v2 {"g-marcozzi" {:type-id "9044942", :attachments-block-text "[[Attachments]]", :include-attachments? false, :include-notes? false, :page-insert-prefix "@", :extra-tags "", :zotero-data-directory "/home/gianlum33/Zotero", :overwrite-mode? false}}
- :feature/enable-timetracking? false}
+ :feature/enable-timetracking? false
+ :editor/preferred-pasting-file? true}

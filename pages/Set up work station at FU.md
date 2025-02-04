@@ -12,7 +12,7 @@ tags:: first-day
 - Install Zotero from flatpak
 	- Plugins: better bibtex, better notes, doi manager, scite, zotfile, zutilo
 	- Link to Zotero
-	- TODO Problem connecting Zotero with Box.FU through webdav
+	- Problem connecting Zotero with Box.FU through webdav
 	  type:: next-action
 - Set up Thunderbird (already installed)
 - Set up Matlab 2022b (already installed)
