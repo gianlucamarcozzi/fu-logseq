@@ -20,7 +20,7 @@
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
  :default-templates
- {:journals ""}
+ {:journals "working-hours"}
 
  ;; Set a custom date format for the journal page title.
  ;; Default value: "MMM do, yyyy"
@@ -89,7 +89,7 @@
  ;; Available options:
  ;;  - integer from 0 to 6 (Monday to Sunday)
  ;; Default value: 6 (Sunday)
- :start-of-week 1
+ :start-of-week 0
 
  ;; Specify a custom CSS import.
  ;; This option takes precedence over the local `logseq/custom.css` file.
@@ -415,4 +415,5 @@
  :journal/page-title-format "EEE, dd-MM-yyyy"
  :zotero/settings-v2 {"g-marcozzi" {:type-id "9044942", :attachments-block-text "[[Attachments]]", :include-attachments? false, :include-notes? false, :page-insert-prefix "@", :extra-tags "", :zotero-data-directory "/home/gianlum33/Zotero", :overwrite-mode? false}}
  :feature/enable-timetracking? false
- :editor/preferred-pasting-file? true}
+ :editor/preferred-pasting-file? true
+ :feature/enable-flashcards? false}
